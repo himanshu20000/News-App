@@ -1,1 +1,1 @@
-# News-App   blob:https://web.whatsapp.com/dafaedb2-c4a5-41b2-8324-ba7a1b683502
+# News-App   ![image](https://user-images.githubusercontent.com/77045558/178532729-a4443d82-32fa-44e3-88ba-4387144107c0.png)
